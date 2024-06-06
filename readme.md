@@ -19,7 +19,7 @@
 
 ## 待办
 
-- [ ] github上我曾尝试过的各种darwin-op2的ros开发项目
+- [x] github上我曾尝试过的各种darwin-op2的ros开发项目
 - [ ] 使用darwin-op3发布的论文
 
 
