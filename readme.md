@@ -19,10 +19,14 @@
 
 **内容**：在已有ros基础上帮助你更好的进行Darwin OP2开发。
 
+#### 5.`Deep-reinforcement-learning-based gait pattern controller on an uneven terrain for humanoid robots.pdf`
+
+**内容**：论文内容为基于深度强化学习（PPO2）的人形机器人（Darwin OP3）不平坦地形步态模式控制器
+
 ## 待办
 
 - [x] github上我曾尝试过的各种darwin-op2的ros开发项目
-- [ ] 使用darwin-op3发布的论文
+- [x] 使用darwin-op3发布的论文
 
 
 
