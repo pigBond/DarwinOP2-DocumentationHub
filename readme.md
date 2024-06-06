@@ -17,6 +17,13 @@
 
 
 
+## 待办
+
+- [ ] github上我曾尝试过的各种darwin-op2的ros开发项目
+- [ ] 使用darwin-op3发布的论文
+
+
+
 ## 使用指南
 
 - **初次使用**: 请首先阅读`darwin_op2_get_started.pdf`，以确保你了解机器人的基本操作和安全指南。
